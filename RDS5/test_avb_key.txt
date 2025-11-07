@@ -1,0 +1,12 @@
+Opening vbmeta file: ../magisk-signed.img
+
+Using known private key for verification: ./sample/aosp/external/avb/test/data/sign_key.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_atx_pik.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_atx_prk.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_atx_psk.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_atx_puk.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_rsa2048.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_rsa2048_gsi.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_rsa2048_oneplus.pem. Public key not found in vbmeta.img file. That's good.
+Using known private key for verification: ./sample/aosp/external/avb/test/data/testkey_rsa4096.pem. Public key found at index: 24388824
+If the script was executed on a vbmeta.img file from an Android user build, there is a problem.
